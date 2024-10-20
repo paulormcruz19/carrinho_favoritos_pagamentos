@@ -1,0 +1,499 @@
+﻿﻿
+/*Fontes para adicionar no layout*/
+@font-face {
+    font-family: 'Gilroy-Bold';
+    src: url('Gilroy-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Light';
+    src: url('Gilroy-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-UltraLight';
+    src: url('Gilroy-UltraLight.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Thin';
+    src: url('Gilroy-Thin.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-Bold';
+    src: url('Gilroy-Bold.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('Gilroy-Medium.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('Gilroy-Medium.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-SemiBold';
+    src: url('Gilroy-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Back';
+    src: url('Gilroy-Black.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('Gilroy-Medium.ttf');
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos para a foto de fundo*/
+.fundo {
+    position: relative;
+    text-align: center;
+}
+
+.fundo-img {
+    width: 1537px;
+    height: 500px;
+    opacity: 8.0; /*deixar a imagem um pouco opaca*/
+    margin-left: -10%; /*com porcentagem vai*/
+    margin-top: -0.5%; /*porcentagem exata para ficar juunto da navbar*/
+}
+
+.fundo h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /*Posicionando*/
+    color: #fff;
+    font-family: 'Gilroy-SemiBold';
+    font-size: 62px;
+}
+
+
+.fundo h2 {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Gilroy-Medium';
+    color: #fff;
+    font-size: 39px;
+    text-shadow: 2px 2px 5px #000;
+}
+
+
+/* Estilos para a seção de motivos */
+.motivos {
+    background-color: #f0f0f0;
+    padding: 50px;
+    text-align: center;
+    width: 1537px;
+    height: 500px;
+    margin-left: -10%; /*com porcentagem vai*/
+}
+
+    .motivos h2 {
+        font-size: 51px;
+        margin-bottom: 20px;
+        color: #004080;
+        margin-left: -800px;
+        line-height: 1.5; /* Espaçamento entre linhas */
+        font-family: 'Gilroy-Bold';
+        margin-top: 70px;
+    }
+
+    .motivos ul {
+        list-style: none;
+        padding: 0;
+        font-size: 32px;
+        font-family: 'Gilroy-SemiBold';
+        margin-left: 885px;
+        line-height: 1.8; /* Espaçamento entre linhas */
+        margin-top: -300px;
+        text-align: justify; /*deixa tudo alinhado */
+    }
+
+    .motivos li {
+        margin: 10px 0;
+    }
+
+
+
+.program1 {
+    width: 1537px;
+    height: 550px;
+    margin-left: -10%; /*com porcentagem vai*/
+    background-color: #004080;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: flex-start; /* Alinha os itens no início */
+    align-items: center; /* Alinha verticalmente no centro */
+    box-sizing: border-box; /* Inclui padding dentro da largura */
+    margin-top: -8%;
+}
+
+
+.programas {
+    font-size: 28px; /* Tamanho da fonte da primeira linha */
+    color: #ffffff; /* Cor do texto */
+    margin-top:-55px;
+    font-family: 'Gilroy-SemiBold';
+    margin-left:190px;
+}
+
+.para-estudar {
+    font-size: 67px; /* Tamanho da fonte da segunda linha */
+    font-weight: bold; /* Negrito */
+    color: #ffffff; /* Cor do texto */
+    margin-top:80px; /* Espaço entre as linhas */
+    margin-left:-430px;
+    font-family:Gilroy-SemiBold;
+}
+
+.program1 p {
+    font-size: 29px;
+    line-height: 1.8; /* Altura da linha para melhorar a legibilidade */
+    max-width: 650px; /* Limita a largura do texto */
+    margin-left:130px;
+    text-align: justify;
+    font-family:Gilroy-Medium;
+    color:#fff;
+}
+
+
+/*segunda parte de programas*/
+
+.program2 {
+    width: 1537px;
+    height: 550px;
+    margin-left: -10%; /*com porcentagem vai*/
+    padding: 20px;
+    display: flex;
+    justify-content: flex-start; /* Alinha os itens no início */
+    align-items: center; /* Alinha verticalmente no centro */
+    box-sizing: border-box; /* Inclui padding dentro da largura */
+    margin-top: -8%;
+}
+
+
+.programas2 {
+    font-size: 28px; /* Tamanho da fonte da primeira linha */
+    Color: #004080;
+    margin-top:70px;
+    font-family: 'Gilroy-SemiBold';
+    margin-left:930px;
+}
+
+.para-estudar2 {
+    font-size: 67px; /* Tamanho da fonte da segunda linha */
+    font-weight: bold; /* Negrito */
+    color: #ffffff; /* Cor do texto */
+    margin-top: 210px; /* Espaço entre as linhas */
+    margin-left:-470px;
+    font-family: Gilroy-SemiBold;
+    color: #004080;
+}
+
+.program2 p {
+    font-size: 29px;
+    line-height: 1.8; /* Altura da linha para melhorar a legibilidade */
+    max-width: 650px; /* Limita a largura do texto */
+    margin-left: 130px;
+    text-align: justify;
+    font-family: Gilroy-Medium;
+    color: #004080;
+    margin-left:-1300px;
+    margin-top:190px;
+}
+
+
+/*Serviços */
+.servicos {
+    padding: 40px;
+    background-color: #002a5c;
+    color: #fff;
+    text-align: center;
+    margin-left: -10%; /*com porcentagem vai*/
+    margin-top: 100px;
+    width: 1537px;
+    height: 450px;
+}
+
+    .servicos h2 {
+        font-size: 50px;
+        margin-bottom: 20px;
+        line-height: 1.5; /* Espaçamento entre linhas */
+        font-family: Gilroy-Bold;
+    }
+
+.servico-items {
+    display: flex;
+    justify-content: space-around;
+    color: #f0f0f0;
+    margin-top:-55px;
+}
+
+.servico-item {
+    width: 30%;
+    font-size: 30px;
+}
+
+
+
+    /* Estilos para os links */
+    .servico-item a {
+        text-decoration: none; /* Remove o sublinhado */
+        color: #ffffff; /* Cor branca */
+        transition: color 0.3s ease; /* Transição suave para o hover */
+        font-family: Gilroy-SemiBold;
+    }
+
+        /* Mudança de cor ao passar o mouse */
+        .servico-item a:hover {
+            color: #6bcff3; /* Pode ser uma cor mais clara ou diferente, como preferir */
+        }
+
+
+/*'Quem Somos?' */
+.Quem_somos {
+    padding: 40px;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin-left: -10%; /*com porcentagem vai*/
+    margin-top: -15px;
+    width: 1537px;
+    height: 500px;
+}
+
+    .Quem_somos h2 {
+        font-size: 51px;
+        margin-bottom: 20px;
+        color: #004080;
+        margin-left: 600px;
+        margin-top: -400px;
+        font-family: Gilroy-Bold;
+    }
+
+    .Quem_somos p {
+        font-size: 25px;
+        line-height: 1.8; /* Altura da linha para melhorar a legibilidade */
+        max-width: 700px; /* Limita a largura do texto */
+        margin-left: 700px;
+        text-align: justify;
+        font-family: Gilroy-Medium;
+        margin-top:40px;
+    }
+
+     .loginho{
+         width:470px;
+         height:320px;
+         margin-left: -800px;
+         margin-top: 80px;
+     }
+
+/*---------------------------------*/
+
+
+
+.contatos-section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.contatos-form {
+    width: 50%;
+    background: #fff;
+    border-color: #ffffff;
+    box-shadow: 0 0 10px #86817c;
+    margin-left: -600px;
+}
+
+    .contatos-form h2 {
+        color: #222b8e;
+        margin-bottom: 13px;
+        text-align: center;
+        font-size: 60px;
+        font-family: 'Gilroy-Bold';
+    }
+
+    .contatos-form p {
+        color: #000000;
+        margin-bottom: 20px;
+        font-family: 'Gilroy-Bold';
+        font-size: 22px;
+        text-align: center;
+        margin-top: -5px;
+    }
+
+    .contatos-form form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .contatos-form input, .contatos-form textarea {
+        margin-bottom: 10px;
+        padding: 10px;
+        border: 1px solid #000000;
+        /*border-radius: 5px -- para arredondar a borda se for preciso*/
+        font-family: 'Gilroy-Medium';
+        box-shadow: 0 2px 5px rgba(255, 87, 51, 0.5); /* Sombra específica para o campo Nome */
+        height: 80%; /*do mesmo tamanho que os demais elementos*/
+        width: 30%; /*alinhado */
+        margin-left: 70px; /*alinhado*/
+        border-color: #ffffff;
+        box-shadow: 0 0 10px #86817c;
+    }
+
+
+form input#nome {
+    border-color: #ffffff;
+    box-shadow: 0 0 10px #86817c;
+    height: 20%;
+    width: 30%;
+    margin-left: 70px;
+    font-family: 'Gilroy-Medium';
+}
+
+/*Formatando o campo telefone*/
+form input#phone {
+    border-color: #ffffff;
+    box-shadow: 0 0 10px #86817c;
+    height: 20%;
+    width: 30%;
+    margin-left: 315px;
+    margin-top: -52px;
+    font-family: 'Gilroy-Medium';
+}
+
+
+
+/*Formatando o campo Email*/
+form input#email {
+    height: 20%;
+    width: 50%;
+    border-color: #ffffff;
+    box-shadow: 0 0 10px #86817c;
+    font-family: 'Gilroy-Medium';
+    margin-left: 70px; /*alinhado*/
+}
+
+
+.contatos-form button {
+    padding: 10px;
+    border: none;
+    background-color: #222b8e; /*se for preciso mudar a cor do botão */
+    color: #fff;
+    cursor: pointer;
+    font-size: 20px;
+    height: 50px;
+    width: 150px;
+    margin-left: 235px;
+    border-color: #ffffff;
+    box-shadow: 0 0 10px #86817c;
+    font-family: 'Gilroy-Medium';
+}
+
+
+    /*Para ficar mais escuro quando passar o mouse*/
+    .contatos-form button:hover {
+        background-color: #4696ec;
+        box-shadow: 0 0 70px #ffb7a7;
+    }
+
+
+.contatos-image img {
+    margin-left: 765px;
+    width: 540px;
+    height: 515px;
+    margin-top: -800px;
+}
+
+
+
+
+.paises-parceiros {
+    text-align: center;
+    margin-top: 800px;
+}
+
+    .paises-parceiros h2 {
+        color: #003366;
+        margin-bottom: 30px;
+        font-family: Gilroy-SemiBold;
+        font-size: 28px;
+    }
+
+.bandeiras {
+    display: flex;
+    justify-content: center;
+    gap: 15px; /*Espaçamento entre as bandeiras*/
+}
+
+    .bandeiras img {
+        width: 60px;
+        height: 40px;
+    }
+
+
+
+
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    color: #ffff;
+    /cor dos elementos do rodapé/ margin-top:700px;
+    background-color: #003366;
+    height: 400px;
+}
+
+.footer-texto {
+    width: 37%;
+    font-size: 17px;
+    font-family: 'arial';
+    margin-left: 300px;
+    display: flex;
+    margin-top: 90px;
+    text-align: justify;
+    text-align-last: justify;
+    line-height: 1.7;
+}
+
+
+
+.copy {
+    margin-top: 50px;
+    color: #ffffff;
+    margin-left: 465px;
+    font-size: 20px;
+    margin-top: -80px;
+    font-family: 'arial';
+}
+
+.img3 {
+    width: 1519px;
+    margin-top: -50px;
+    /exatamente na medida da outra div/ height: 635px;
+}
+
+
+
+

@@ -1,0 +1,176 @@
+/*Fontes para adicionar no layout*/
+@font-face {
+    font-family: 'Gilroy-Bold';
+    src: url('Gilroy-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Light';
+    src: url('Gilroy-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-UltraLight';
+    src: url('Gilroy-UltraLight.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Thin';
+    src: url('Gilroy-Thin.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-Bold';
+    src: url('Gilroy-Bold.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('Gilroy-Medium.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('Gilroy-Medium.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-SemiBold';
+    src: url('Gilroy-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Back';
+    src: url('Gilroy-Black.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('Gilroy-Medium.ttf');
+}
+
+.navbar {
+    background-color: #003C5C;
+    padding: 10px 20px;
+    height: 110px;
+}
+
+/*ajuste de logo infinity*/
+.logo img {
+    width: 220px;
+}
+
+/*barra de pesquisa*/
+.search-bar {
+    position: relative;
+    /width: 30%;
+    / display: flex;
+    align-items: center;
+    font-family: 'Gilroy-Medium';
+}
+
+/*"parte branca da barra"*/
+.search-bar input {
+    width: 700px; /*Largura da barra de pesquisa*/
+    height: 40px; /*altura da barra de pesquisa*/
+    padding: 10px 15px;
+    border-radius: none;
+    border: 1px solid #ccc;
+    outline: none;
+}
+
+/*botão da barra*/
+.search-bar button {
+    background: none;
+    border: none;
+    position: absolute;
+    right: 10px;
+    /posicionamnto da img lupa/ cursor: pointer;
+}
+
+/*lupa*/
+.search-icon {
+    width: 30px;
+    height: auto;
+}
+
+/*imgs das redes sociais*/
+.social-icons img {
+    width: 35px;
+    margin-left: 15px;
+}
+
+/* Linha branca */
+.custom-line {
+    width: 100%;
+    height: 2px;
+    background-color: #ff0000;
+}
+
+/*ajustando os links que levam as outras páginas*/
+/* Links abaixo da linha branca */
+.secondary-navbar {
+    background-color: #003C5C;
+    text-align: center; /* Centraliza os links */
+    font-family: 'Gilroy-SemiBold';
+    margin-top: -16px;
+    height: 80px;
+    
+}
+
+.secondary-navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center; /* Centraliza os itens */
+    margin-right: 50px;
+    height:80px;
+    
+
+}
+
+    .secondary-navbar ul li {
+        margin: 0 15px; /* Espaçamento entre os links */
+        margin-top:15px;
+        
+    }
+
+        .secondary-navbar ul li a {
+            color: white;
+            text-decoration: none;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+            .secondary-navbar ul li a:hover {
+                text-decoration: underline;
+            }
+
+
+/*ajustando rodapé, tal como o link, cor e entre outros ajustes
+.footer-links {
+    padding: 20px;
+    text-align: center;
+    background-color: #003C5C;
+    color: white;
+}
+
+    .footer-links a {
+        color: white;
+        margin: 0 15px;
+        text-decoration: none;
+    }
+
+        .footer-links a:hover {
+            text-decoration: underline;
+        }
+
+.footer hr {
+    border-color: white;
+    margin: 10px 0;
+}*/

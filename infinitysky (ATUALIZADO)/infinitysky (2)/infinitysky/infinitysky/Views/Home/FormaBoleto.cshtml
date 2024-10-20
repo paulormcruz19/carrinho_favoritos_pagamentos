@@ -1,0 +1,90 @@
+﻿@model IEnumerable<infinitysky.Models.Planos>
+
+@{
+    ViewData["Title"] = "FormaBoleto";
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>InfinitySky</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link rel="stylesheet" href="~/css/formaboleto.css" asp-append-version="true">
+</head>
+<body>
+    <div class="container">
+        <h1 class="titulo">PAGAMENTO</h1>
+        <p class="subtitulo">Escolha sua forma de pagamento</p>
+
+        <div class="main-content">
+            <div class="formulario-pagamento">
+                <div class="payment-methods">
+                    <form asp-action="FormaCartao" method="get">
+                        <button type="submit">
+                            <img src="~/img/cartaoazul.png" alt=""> Cartão
+                        </button>
+                    </form>
+                    <form asp-action="FormaPix" method="get">
+                        <button type="submit">
+                            <img src="~/img/Pix.png" alt=""> PIX
+                        </button>
+                    </form>
+                    <form asp-action="FormaBoleto" method="get">
+                        <button type="submit" class="selected">
+                            <img src="~/img/boletobranco.png" alt=""> Boleto
+                        </button>
+                    </form>
+                </div>
+
+                <form>
+                    <div class="form-group">
+                        <button class="btn btn-white btn-lg" onclick="window.open('https://drive.google.com/file/d/1Btq8jdzfHHDM-Wxc1WNXwbXxeVEOUjst/view?usp=sharing', '_blank')">
+                            <img src="~/img/barras.png" alt="" class="btn-icon">
+                            Clique aqui para visualizar o boleto bancário
+                        </button>
+                    </div>
+                </form>
+            </div>
+
+            <div class="sidebar">
+                @foreach (var item in Model)
+                {
+                    <div class="plano-item">
+                        <div class="me-3">
+                            <figure class="media">
+                                <div class="image-container">
+                                    @if (item.image_plano != null)
+                                    {
+                                        <img src="/@item.image_plano" class="product-image" alt="Imagem do Plano" />
+                                    }
+                                    else
+                                    {
+                                        <img src="/Imagens/imagenotfound.png" class="product-image" alt="Imagem Padrão" />
+                                    }
+                                </div>
+                            </figure>
+                        </div>
+                        <h3 class="titulo-plano">@item.Nome</h3>
+                        <p class="product-info">Hospedagem: @item.HospedagemPlano</p>
+                        <p class="product-info">Curso: @item.CursoPlano</p>
+                        <p class="product-info">Escola: @item.InstituicaoPlano</p>
+                        <p class="product-info">Período: @item.PeriodoPlano</p>
+                        <p class="product-parcela">@item.ParcelaPlano</p>
+                        <hr>
+                    </div>
+                }
+                
+                <form asp-action="FinalizarPagamento" method="get">
+                    <div class="finalize-button">
+                        <button type="submit">FINALIZAR</button>
+                    </div>
+                </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

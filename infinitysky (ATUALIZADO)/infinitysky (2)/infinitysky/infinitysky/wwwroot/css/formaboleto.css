@@ -1,0 +1,255 @@
+﻿/*Fontes para adicionar no layout*/
+@font-face {
+    font-family: 'Gilroy-Bold';
+    src: url('Gilroy-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Light';
+    src: url('Gilroy-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-UltraLight';
+    src: url('Gilroy-UltraLight.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Thin';
+    src: url('Gilroy-Thin.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-Bold';
+    src: url('Gilroy-Bold.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('Gilroy-Medium.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('Gilroy-Medium.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-SemiBold';
+    src: url('Gilroy-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Back';
+    src: url('Gilroy-Black.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('Gilroy-Medium.ttf');
+}
+
+body {
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 900px;
+    margin: 15px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+h1.titulo {
+    text-align: center;
+    font-family: 'Gilroy-SemiBold';
+    color: #002855;
+    font-size: 75px;
+}
+
+.subtitulo {
+    text-align: center;
+    font-family: 'Gilroy-Bold';
+    color: #002855;
+    font-size: 25px;
+}
+
+.main-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.formulario-pagamento {
+    width: 75%;
+    padding-right: 20px;
+    border-right: 1px solid #ddd;
+}
+
+.payment-methods {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+    .payment-methods form {
+        flex: 1;
+        margin-right: 10px;
+    }
+
+        .payment-methods form:last-child {
+            margin-right: 0;
+        }
+
+    .payment-methods button {
+        display: flex;
+        font-family: 'Gilroy-Bold';
+        font-size: 20px;
+        align-items: center;
+        justify-content: center;
+        padding: 10px;
+        background-color: white;
+        color: #005eb8;
+        border: none;
+        border-radius: 0;
+        cursor: pointer;
+        font-weight: bold;
+        transition: background-color 0.3s ease, transform 0.3s ease;
+        width: 100%;
+        height: 60px;
+    }
+
+        .payment-methods button:first-child {
+            border-top-left-radius: 5px;
+            border-bottom-left-radius: 5px;
+        }
+
+        .payment-methods button:last-child {
+            border-top-right-radius: 5px;
+            border-bottom-right-radius: 5px;
+        }
+
+        .payment-methods button.selected {
+            background-color: #003f73;
+            color: white;
+        }
+
+        .payment-methods button:hover {
+            background-color: #003f73;
+            color: white;
+            transform: scale(1.05);
+        }
+
+        .payment-methods button img {
+            margin-right: 10px;
+            max-height: 40px;
+        }
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.btn-white {
+    border: 2px solid #000000;
+    color: #002855;
+    font-family: 'Gilroy-SemiBold';
+    padding: 5px 10px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 92px 0;
+    width: fit-content;
+    min-width: 250px;
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+
+.btn-icon {
+    width: 35px;
+    height: auto;
+    margin-right: 8px;
+}
+
+.sidebar {
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+    .sidebar h3.titulo-plano {
+        font-size: 22px;
+        font-family: 'Gilroy-Bold';
+        color: #002855;
+        margin-bottom: 15px;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .sidebar p.product-info, .sidebar p.product-parcela {
+        text-align: left;
+        font-family: 'Gilroy-Bold';
+        padding: 3px;
+        margin: 3px 0;
+        font-size: 17px;
+        color: #002855;
+        padding-left: 7px;
+    }
+
+    .sidebar p.product-parcela {
+        font-size: 17px;
+        margin: 0;
+    }
+
+    .sidebar .finalize-button {
+        width: 300px;
+        height: auto;
+        background-color: #fff;
+    }
+
+.product-image {
+    width: 230px;
+    height: 130px;
+    object-fit: cover;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.finalize-button button {
+    background-color: #007bff;
+    color: white;
+    padding: 12px 37px;
+    border: none;
+    border-radius: 0;
+    cursor: pointer;
+    font-size: 22px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+}
+
+    .finalize-button button:hover {
+        background-color: #003f73;
+    }
+
+/* Media Queries */
+@media screen and (max-width: 768px) {
+    .main-content {
+        flex-direction: column;
+    }
+
+    .formulario-pagamento, .sidebar {
+        width: 100%;
+        padding: 0;
+    }
+}

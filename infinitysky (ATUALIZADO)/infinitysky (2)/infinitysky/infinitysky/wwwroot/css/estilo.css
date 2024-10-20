@@ -1,0 +1,163 @@
+﻿/*Fontes para adicionar no layout*/
+@font-face {
+    font-family: 'Gilroy-Bold';
+    src: url('Gilroy-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Light';
+    src: url('Gilroy-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-UltraLight';
+    src: url('Gilroy-UltraLight.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Thin';
+    src: url('Gilroy-Thin.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-Bold';
+    src: url('Gilroy-Bold.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('Gilroy-Medium.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('Gilroy-Medium.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-SemiBold';
+    src: url('Gilroy-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Back';
+    src: url('Gilroy-Black.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('Gilroy-Medium.ttf');
+}
+
+body {
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+/* Centraliza o contêiner principal na página e aumenta o tamanho */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh; /*altura do forms*/
+    margin-top: 50px;
+}
+
+/* Estilo para o contêiner principal com tamanho maior */
+.form-container {
+    display: flex;
+    max-width: 1800px; /* Aumenta a largura máxima */
+    background-color: #fff;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    justify-content: space-between;
+}
+
+/* Estilo da coluna do formulário */
+.form-content {
+    padding: 40px;
+    width: 70%; /* Aumenta a largura da área do formulário */
+}
+
+/* Estilo para o título Cadastrar */
+h1 {
+    font-size: 3rem; /* Aumenta o tamanho da fonte */
+    text-align: center;
+    color: #0F3460;
+    margin-bottom: 10px; /* Remove o espaçamento abaixo */
+    margin-top: 200px; /* Remove o espaçamento acima */
+    font-weight: bold;
+    font-family: 'Gilroy-SemiBold';
+}
+
+
+p {
+    font-size: 18px; /* Aumenta o tamanho da fonte do parágrafo */
+    text-align: center;
+    color: #1a3e68;
+    margin-bottom: 30px;
+    font-family: 'Gilroy-SemiBold';
+}
+
+/* Estilo dos campos de input */
+.form-inline {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px; /* Aumenta o espaçamento entre os campos */
+}
+
+input.form-control {
+    width: calc(100% - 20px); /* Ajusta a largura dos inputs */
+    padding: 15px; /* Aumenta o padding */
+    border: 1px solid #ccc;
+    font-size: 18px; /* Aumenta o tamanho da fonte dos inputs */
+    margin-bottom: 20px; /* Aumenta o espaçamento inferior */
+}
+
+/* Estilizando os placeholders */
+input::placeholder {
+    color: #777;
+    font-size: 16px;
+    font-family: 'Gilroy-Medium'; /* Aumenta o tamanho da fonte dos placeholders */
+}
+
+/* Botão de submissão */
+input[type="submit"] {
+    background-color: #3498db; /*mudar a cor do botão*/
+    color: #fff; /*cor da letra*/
+    border: none;
+    padding: 13px; /* Aumenta o  do bottamanho do botão */
+    font-size: 20px; /* Aumenta o tamanho da fonte do botão */
+    cursor: pointer;
+    width: 50%;
+    margin-left: 40px;
+}
+
+/* Estilo para a imagem lateral */
+.imgfundo {
+    /* height: 540px; altura*/
+    width: 350px; /*largura*/
+}
+
+
+/* Responsividade */
+@media (max-width: 600px) {
+    .form-container {
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .form-image {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .form-content {
+        width: 100%;
+    }
+}

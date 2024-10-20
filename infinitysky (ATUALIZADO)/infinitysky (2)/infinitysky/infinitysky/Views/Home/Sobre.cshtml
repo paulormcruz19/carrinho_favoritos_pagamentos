@@ -1,0 +1,142 @@
+﻿@{
+
+    ViewData["Title"] = "Sobre";
+}
+
+<link rel="stylesheet" href="~/css/sobreempresa.css" asp-append-version="true">
+
+
+<body>
+
+    <section class="fundo">
+        <!--Mudar o fundo-->
+        <img src="/img/fundonovayork.png" class="fundo-img" alt="Fundo" />
+        <h2>CONHEÇA OS </h2>
+        <H1>PRINCIPAIS DESTINOS</H1>
+    </section>
+
+    <section class="motivos">
+        <h2>MOTIVOS PARA <br> EMBARCAR NESSA <br> COM A INFINITYSKY</h2>
+        <ul>
+            <li>1ª Viagens seguras.</li>
+            <li>2ª Destinos incríveis.</li>
+            <li>3ª Suporte Infinity.</li>
+            <li>4ª Experiências excepcionais.</li>
+            <li>5ª Novas oportunidades.</li>
+        </ul>
+    </section>
+
+
+    <br>
+    <br>
+    <br>
+
+    <!--dividindo em class pq as fontes seram diferentes-->
+    <div class="program1">
+        <div class="programas">PROGRAMAS DE INTERCÂMBIO</div>
+        <div class="para-estudar">PARA ESTUDAR</div>
+        <p>
+            Os programas de intercâmbio estudantil oferecem uma experiência única para estudantes de todas as idades,
+            promovendo o desenvolvimento acadêmico e pessoal, além de proporcionar a imersão em novas culturas.
+        </p>
+    </div>
+
+
+    <div class="program2">
+        <div class="programas2">PROGRAMAS DE INTERCÂMBIO</div>
+        <div class="para-estudar2">PARA TRABALHAR</div>
+        <p>
+            Os programas de intercâmbio de trabalho no exterior oferecem uma valiosa oportunidade de
+            desenvolvimento profissional e pessoal. Permitem adquirir experiência internacional, aprimorar idiomas
+            e compreender culturas de negócios diversas.
+        </p>
+    </div>
+
+
+    <section class="servicos">
+
+        <!--provavelmente vai ter que dividir-->
+        <h2>SERVIÇOS <br> INFINITY</h2>
+
+        <br><Br><br><Br><br><Br>
+        <div class="servico-items">
+            <a href="#"><div class="servico-item">SUPORTE AO ALUNO </a>
+        </div>
+        <a href="#"><div class="servico-item">PASSAGENS AÉREAS </a></div>
+        <a href="#"> <div class="servico-item">SEGURO VIAGEM </a></div>
+        </div>
+    </section>
+
+    <section class="Quem_somos">
+        <img src="/img/logosimbolo.png" class="loginho alt="Fundo" />
+
+        <h2>QUEM SOMOS?</h2>
+        <p>
+            A InfinitySky é uma agência especializada em viagens de intercâmbio, oferecendo serviços de qualidade para garantir
+            que cada viagem seja uma experiência única e inesquecível. Nossa equipe é formada por profissionais dedicados,
+            prontos para oferecer o melhor suporte e acompanhamento em cada etapa de sua jornada.
+        </p>
+    </section>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <!--FORMSSS-->
+    <!--Parte do formulário-->
+    <div class="contatos-section">
+        <!--Nomeando para mudar no css a section em geral-->
+        <div class="contatos-form">
+            <!--Nomeando para mudar o form e cada item-->
+            <h2>Está com dúvidas?</h2>
+            <p>Entre em contato e fale conosco</p>
+
+            <form id="contatos-form" action="#" method="post">
+
+                <!--Inserindo cada campo, com id para alterar no css-->
+                <input id="nome" type="text" name="nome" placeholder="Nome" required>
+
+                <!--Neste campo somente numeros, definindo o intervalo de 0 até 9  tentei utilizar pattern="^\d{4}-\d{3}-\d{4}$"-->
+                <input type="tel" id="phone" name="phone" inputmode="numeric" placeholder="Tel" maxlength="12" required>
+
+                <input id="email" type="email" name="email" placeholder="E-mail" required>
+
+                <textarea id="mensagem" name="mensagem" placeholder="Mensagem" required></textarea>
+                <br>
+
+                <!--Colocando o botão enviar-->
+                <button type="submit">Enviar</button>
+            </form>
+            <div id="formMessage"></div> <!--Criando para poder usar no JavaScript-->
+        </div>
+
+
+    </div>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+    <div class="paises-parceiros">
+        <h2>PAÍSES PARCEIROS</h2>
+        <div class="bandeiras">
+
+            <img src="/img/italia.png" alt="Italia">
+            <img src="/img/portugal.png" alt="Portugal">
+            <img src="/img/espanha.png" alt="Espanha">
+            <img src="/img/argentina.png" alt="Argentina">
+            <img src="/img/reinounido.png" alt="Reino Unido">
+            <img src="/img/franca.png" alt="França">
+            <img src="/img/eua.png" alt="Estados Unidos">
+            <img src="/img/alemanha.png" alt="Alemanha">
+            <img src="/img/canada.png" alt="Canadá">
+            <!-- Adicione mais bandeiras conforme necessário -->
+        </div>
+    </div>
+
+
+
+</body>

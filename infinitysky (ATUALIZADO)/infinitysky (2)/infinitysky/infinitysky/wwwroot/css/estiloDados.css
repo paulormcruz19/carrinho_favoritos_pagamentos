@@ -1,0 +1,85 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Centraliza o contêiner principal na página e aumenta o tamanho */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Alinha os itens no topo */
+    height: auto;
+    margin-top: 90px; /* Ajuste conforme necessário */
+}
+
+/* Estilo para o contêiner principal com imagem e botão */
+.form-container {
+    display: flex;
+    flex-direction: column; /* Alinha a imagem e o botão verticalmente */
+    align-items: center; /* Centraliza os itens horizontalmente */
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-right: 20px; /* Espaço entre o contêiner da imagem e o contêiner de texto */
+}
+
+h2 {
+    font-size: 3rem; /* Aumenta o tamanho da fonte */
+    text-align: left;
+    color: #0F3460;
+    margin-bottom: 10px; /* Remove o espaçamento abaixo */
+    margin-top: 10px; /* Remove o espaçamento acima */
+    font-weight: bold;
+}
+/* Estilo para a imagem e detalhes */
+.user {
+    width: 150px; /* Ajusta o tamanho da imagem conforme necessário */
+    height: auto;
+}
+
+.button {
+    margin-top: 10px; /* Espaço entre a imagem e o botão */
+}
+
+/* Estilo para o contêiner de texto */
+.text-container {
+    display: flex;
+    flex-direction: column; /* Alinha os itens verticalmente */
+}
+
+/* Estilo para os itens de informação */
+.form-texto {
+    display: flex;
+    flex-direction: column; /* Alinha os itens verticalmente */
+}
+
+.info-item {
+    display: flex;
+    align-items: center; /* Alinha verticalmente no centro */
+    margin-bottom: 10px; /* Espaçamento entre os itens */
+}
+
+    .info-item h1 {
+        font-size: 1.5rem; /* Reduz o tamanho da fonte */
+        margin-right: 10px; /* Espaço entre o título e o parágrafo */
+        color: #0F3460;
+    }
+
+    .info-item p {
+        font-size: 1.2rem; /* Reduz o tamanho da fonte */
+        color: #1a3e68;
+    }
+
+/* Botão de submissão */
+input[type="submit"] {
+    background-color: #3498db; /* Mudar a cor do botão */
+    color: #fff; /* Cor da letra */
+    border: none;
+    padding: 13px; /* Aumenta o tamanho do botão */
+    font-size: 20px; /* Aumenta o tamanho da fonte do botão */
+    cursor: pointer;
+    width: 150px;
+}

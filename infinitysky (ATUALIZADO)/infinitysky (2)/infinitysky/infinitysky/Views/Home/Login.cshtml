@@ -1,0 +1,88 @@
+﻿@model infinitysky.Models.Cliente;
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<link rel="stylesheet" href="~/css/estilo.css" asp-append-version="true">
+
+<h1>ENTRAR</h1>
+<p>Escolha viajar com a melhor agência de intercâmbio do país</p>
+
+<!-- Layout principal com duas colunas: uma para o formulário e outra para a imagem -->
+<div class="container">
+    <div class="form-container">
+        <!-- Coluna da imagem -->
+        <div class="img-content">
+            <img class="imgfundo" src="/img/fundologin.png" alt="Imagem de avião" />
+        </div>
+
+        <!-- Coluna do formulário -->
+        <div class="form-content">
+            <form asp-action="PainelCliente">
+                <!-- Resumo de validação para exibir mensagens de erro -->
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <!-- Campo Email -->
+                <input asp-for="Email" class="form-control" placeholder="Email" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+
+                <!-- Campo Senha -->
+                <input asp-for="Senha" type="password" class="form-control" placeholder="Senha" />
+                <span asp-validation-for="Senha" class="text-danger"></span>
+
+                <!-- Botão de submissão -->
+                <input type="submit" value="ENTRAR" class="btn btn-primary btn-block" />
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<h1>Cadastrar Cliente</h1>
+
+<h4>Cliente</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CadastrarCliente">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Nome" class="control-label"></label>
+                <input asp-for="Nome" class="form-control" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Telefone" class="control-label"></label>
+                <input asp-for="Telefone" class="form-control" />
+                <span asp-validation-for="Telefone" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Cadastrar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div> -->
+<!--
+<div> <a asp-action="Index">Voltar</a></di>-->

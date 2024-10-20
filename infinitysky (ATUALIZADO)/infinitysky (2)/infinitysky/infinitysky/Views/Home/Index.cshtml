@@ -1,0 +1,181 @@
+﻿@model IEnumerable<infinitysky.Models.Planos>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>InfinitySky</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="~/css/homepage.css" asp-append-version="true">
+
+</head>
+<body>
+
+    <!-- Banner com as 3 fotos -->
+    <section class="banner">
+
+        <img class="banner-image" src="/img/melhorlugar.png" alt="banner-image" />
+    </section>
+
+    <!-- Descrição que aparece -->
+    <section class="descricao">
+        <p>Escolher o melhor país para fazer um intercâmbio é como selecionar a estrela mais brilhante em um vasto céu de oportunidades.</p>
+    </section>
+
+    <br>
+    <br>
+    <br>
+    <!-- Cartões -->
+    <section class="programas">
+        <h2>Encontre o seu programa de intercâmbio</h2>
+        <div class="cardsprog">
+            <div class="cardinfo">
+                <img src="/img/fundoviagem.png" alt="Melhores países">
+                <h3>Melhores países</h3>
+                <p>Descubra destinos incríveis e viva experiências únicas. Prepare-se para uma aventura inesquecível!</p>
+            </div>
+
+            <div class="cardinfo">
+                <img src="/img/fundoviagem3.png" alt="Estudos">
+                <h3>Estudos</h3>
+                <p>Explore programas de intercâmbio focados em educação e abra as portas para seu futuro profissional.</p>
+            </div>
+
+            <div class="cardinfo">
+                <img src="/img/fundoviagem2.png" alt="Explore novos idiomas">
+                <h3>Explore novos idiomas</h3>
+                <p>Aprenda uma nova língua imerso em uma cultura fascinante e pratique no dia a dia!</p>
+            </div>
+        </div>
+    </section>
+
+
+
+    <div class="quality-section">
+        <div class="quality-text">
+            <h2>QUALIDADE</h2>
+            <h1>GARANTIDA</h1>
+        </div>
+        <div class="description-text">
+            <p>Cuidamos de todos os detalhes, desde a escolha do destino até o suporte no local, para que você possa aproveitar ao máximo essa oportunidade única. Nossa equipe é dedicada e experiente, pronta para oferecer orientação personalizada e resolver qualquer imprevisto que possa surgir.</p>
+        </div>
+    </div>
+    <br />
+    <br />
+
+    <!--Adiconando os planos-->
+    <section>
+        <div class="container my-5">
+            <header id="moreContent" class="mb-4">
+                <h3>Novos Planos</h3>
+            </header>
+            <br />
+
+            <!-- Planos Section -->
+            <div id="products-container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="row">
+
+                                @foreach (var item in Model)
+                                {
+                                    <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+                                        <div class="card product-card shadow-0 border rounded-3">
+                                            <div class="card-body">
+                                                <div class="hover-zoom">
+                                                    @if (item.image_plano != null)
+                                                    {
+                                                        <img src="@item.image_plano" class="product-image img-fluid rounded-4" alt="Imagem do Plano" />
+                                                    }
+                                                    else
+                                                    {
+                                                        <img src="/Imagens/imagenotfound.png" class="product-image img-fluid rounded-4" alt="Imagem Padrão" />
+                                                    }
+                                                </div>
+                                                <div class="pt-3">
+
+                                                    <h5 class="product-name">@item.Nome</h5>
+
+                                                    <p class="product-info">Hospedagem: @item.HospedagemPlano</p>
+
+                                                    <p class="product-info"> Curso: @item.CursoPlano</p>
+
+                                                    <p class="product-info">Escola: @item.InstituicaoPlano</p>
+
+                                                    <br />
+
+                                                    <p class="product-description small text-muted">@item.DescricaoPlano</p>
+
+                                                    <p class="product-period">Período: @item.PeriodoPlano</p>
+
+                                                    <!--<img src="/Imagens/favoritar.png" class="product-favoritar" alt="favoritar" />-->
+
+                                                    <p class="product-parcel"> @item.ParcelaPlano</p>
+
+                                                    <p class="product-price">R$@item.Valor</p>
+
+                                                <a href="@Url.Action("AdicionarFavorito", "Home", new { id = item.IdPlano })">
+                                                    <img src="/Imagens/favoritar.png" class="product-favoritar" alt="favoritar" />
+                                                </a>
+
+                                                    <hr/>
+                                                    <div class="d-flex align-items-center justify-content-between pb-2 mb-1">
+                                                    @using (Html.BeginForm("AdicionarItem", "Home", FormMethod.Post))
+                                                        {
+                                                            <input type="hidden" name="id" value="@item.IdPlano" />
+                                                            <input type="hidden" name="quantidade" value="1" />
+
+                                                            <button type="submit" class="button">
+                                                                <span class="button__text">ADICIONAR AO CARRINHO</span>
+                                                                <div class="button__icon">
+                                                                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M7 4H22L20.395 12.93C20.282 13.545 19.751 14 19.126 14H8.745L7.878 9H19V7H7L5.302 15H18V17H4.573L4.095 14.856L3 9.944V4H7ZM6 18C7.104 18 8 18.896 8 20C8 21.104 7.104 22 6 22C4.896 22 4 21.104 4 20C4 18.896 4.896 18 6 18ZM18 18C19.104 18 20 18.896 20 20C20 21.104 19.104 22 18 22C16.896 22 16 21.104 16 20C16 18.896 16.896 18 18 18Z" fill="currentColor" />
+                                                                    </svg>
+
+                                                                </div>
+                                                            </button>
+                                                        }
+                                                    </div>
+                                                    <br />
+                                                    <br />
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+        <!-- Adicionando todas as bandeiras -->
+        <div class="paises-parceiros">
+            <h2>PAÍSES PARCEIROS</h2>
+            <div class="bandeiras">
+                <img src="/img/italia.png" alt="Italia">
+                <img src="/img/portugal.png" alt="Portugal">
+                <img src="/img/espanha.png" alt="Espanha">
+                <img src="/img/argentina.png" alt="Argentina">
+                <img src="/img/reinounido.png" alt="Reino Unido">
+                <img src="/img/franca.png" alt="Franca">
+                <img src="/img/eua.png" alt="Estados Unidos">
+                <img src="/img/alemanha.png" alt="Alemanha">
+                <img src="/img/canada.png" alt="Canadá">
+
+            </div>
+        </div>
+
+    </section>
+
+</body>
+</html>

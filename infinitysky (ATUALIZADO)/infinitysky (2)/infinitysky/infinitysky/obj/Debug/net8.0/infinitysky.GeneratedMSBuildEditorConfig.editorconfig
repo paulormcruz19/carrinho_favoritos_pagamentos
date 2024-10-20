@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = infinitysky
+build_property.RootNamespace = infinitysky
+build_property.ProjectDir = C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/anapa/Downloads/TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)/infinitysky (ATUALIZADO)/infinitysky (2)/infinitysky/infinitysky/Views/Home/CadastrarCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWRhc3RyYXJDbGllbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anapa/Downloads/TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)/infinitysky (ATUALIZADO)/infinitysky (2)/infinitysky/infinitysky/Views/Home/Carrinho.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJyaW5oby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anapa/Downloads/TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)/infinitysky (ATUALIZADO)/infinitysky (2)/infinitysky/infinitysky/Views/Home/DadosCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYWRvc0NsaWVudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anapa/Downloads/TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)/infinitysky (ATUALIZADO)/infinitysky (2)/infinitysky/infinitysky/Views/Home/Favoritos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGYXZvcml0b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anapa/Downloads/TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)/infinitysky (ATUALIZADO)/infinitysky (2)/infinitysky/infinitysky/Views/Home/FormaBoleto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JtYUJvbGV0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anapa/Downloads/TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)/infinitysky (ATUALIZADO)/infinitysky (2)/infinitysky/infinitysky/Views/Home/FormaCartao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JtYUNhcnRhby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anapa/Downloads/TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)/infinitysky (ATUALIZADO)/infinitysky (2)/infinitysky/infinitysky/Views/Home/FormaPix.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JtYVBpeC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anapa/Downloads/TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)/infinitysky (ATUALIZADO)/infinitysky (2)/infinitysky/infinitysky/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anapa/Downloads/TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)/infinitysky (ATUALIZADO)/infinitysky (2)/infinitysky/infinitysky/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anapa/Downloads/TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)/infinitysky (ATUALIZADO)/infinitysky (2)/infinitysky/infinitysky/Views/Home/PainelCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWluZWxDbGllbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anapa/Downloads/TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)/infinitysky (ATUALIZADO)/infinitysky (2)/infinitysky/infinitysky/Views/Home/Sobre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTb2JyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anapa/Downloads/TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)/infinitysky (ATUALIZADO)/infinitysky (2)/infinitysky/infinitysky/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anapa/Downloads/TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)/infinitysky (ATUALIZADO)/infinitysky (2)/infinitysky/infinitysky/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anapa/Downloads/TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)/infinitysky (ATUALIZADO)/infinitysky (2)/infinitysky/infinitysky/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anapa/Downloads/TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)/infinitysky (ATUALIZADO)/infinitysky (2)/infinitysky/infinitysky/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anapa/Downloads/TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)/infinitysky (ATUALIZADO)/infinitysky (2)/infinitysky/infinitysky/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uciswcfm2s

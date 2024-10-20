@@ -1,0 +1,300 @@
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.AssemblyInfo.cs
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.RazorAssemblyInfo.cache
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.RazorAssemblyInfo.cs
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\appsettings.json
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.staticwebassets.runtime.json
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.exe
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.deps.json
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.runtimeconfig.json
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.pdb
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.infinitysky.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.build.infinitysky.props
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.infinitysky.props
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.infinitysky.props
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\bundle\infinitysky.styles.css
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\projectbundle\infinitysky.bundle.scp.css
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\infinity.64D1D302.Up2Date
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\refint\infinitysky.dll
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.pdb
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.genruntimeconfig.cache
+C:\Users\Acer\Desktop\infinitysky\infinitysky\obj\Debug\net8.0\ref\infinitysky.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\appsettings.Development.json
+C:\infinitysky\infinitysky\bin\Debug\net8.0\appsettings.json
+C:\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.staticwebassets.runtime.json
+C:\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.exe
+C:\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.deps.json
+C:\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.runtimeconfig.json
+C:\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.pdb
+C:\infinitysky\infinitysky\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\Google.Protobuf.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\MySql.Data.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\ZstdSharp.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.csproj.AssemblyReference.cache
+C:\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.GeneratedMSBuildEditorConfig.editorconfig
+C:\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.AssemblyInfoInputs.cache
+C:\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.AssemblyInfo.cs
+C:\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.csproj.CoreCompileInputs.cache
+C:\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.MvcApplicationPartsAssemblyInfo.cache
+C:\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.RazorAssemblyInfo.cache
+C:\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.RazorAssemblyInfo.cs
+C:\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.build.json
+C:\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.development.json
+C:\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.infinitysky.Microsoft.AspNetCore.StaticWebAssets.props
+C:\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.build.infinitysky.props
+C:\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.infinitysky.props
+C:\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.infinitysky.props
+C:\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.pack.json
+C:\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\bundle\infinitysky.styles.css
+C:\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\projectbundle\infinitysky.bundle.scp.css
+C:\infinitysky\infinitysky\obj\Debug\net8.0\infinity.64D1D302.Up2Date
+C:\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.dll
+C:\infinitysky\infinitysky\obj\Debug\net8.0\refint\infinitysky.dll
+C:\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.pdb
+C:\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.genruntimeconfig.cache
+C:\infinitysky\infinitysky\obj\Debug\net8.0\ref\infinitysky.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\appsettings.json
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.staticwebassets.runtime.json
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.exe
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.deps.json
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.runtimeconfig.json
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.pdb
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.csproj.AssemblyReference.cache
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.AssemblyInfoInputs.cache
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.AssemblyInfo.cs
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.csproj.CoreCompileInputs.cache
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.RazorAssemblyInfo.cache
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.RazorAssemblyInfo.cs
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.infinitysky.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.build.infinitysky.props
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.infinitysky.props
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.infinitysky.props
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\bundle\infinitysky.styles.css
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\projectbundle\infinitysky.bundle.scp.css
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinity.64D1D302.Up2Date
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\refint\infinitysky.dll
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.pdb
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.genruntimeconfig.cache
+C:\Users\anapa\Downloads\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\ref\infinitysky.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\appsettings.json
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.staticwebassets.runtime.json
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.exe
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.deps.json
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.runtimeconfig.json
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.pdb
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.csproj.AssemblyReference.cache
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.AssemblyInfoInputs.cache
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.AssemblyInfo.cs
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.csproj.CoreCompileInputs.cache
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.RazorAssemblyInfo.cache
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.RazorAssemblyInfo.cs
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.infinitysky.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.build.infinitysky.props
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.infinitysky.props
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.infinitysky.props
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\bundle\infinitysky.styles.css
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\projectbundle\infinitysky.bundle.scp.css
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinity.64D1D302.Up2Date
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\refint\infinitysky.dll
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.pdb
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.genruntimeconfig.cache
+C:\Users\anapa\Downloads\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\ref\infinitysky.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\appsettings.json
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.staticwebassets.runtime.json
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.exe
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.deps.json
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.runtimeconfig.json
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.pdb
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.csproj.AssemblyReference.cache
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.AssemblyInfoInputs.cache
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.AssemblyInfo.cs
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.csproj.CoreCompileInputs.cache
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.RazorAssemblyInfo.cache
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.RazorAssemblyInfo.cs
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.infinitysky.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.build.infinitysky.props
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.infinitysky.props
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.infinitysky.props
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\bundle\infinitysky.styles.css
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\projectbundle\infinitysky.bundle.scp.css
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinity.64D1D302.Up2Date
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\refint\infinitysky.dll
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.pdb
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.genruntimeconfig.cache
+C:\Users\anapa\Downloads\infinitysky (OFICIAL)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\ref\infinitysky.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\appsettings.json
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.staticwebassets.runtime.json
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.exe
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.deps.json
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.runtimeconfig.json
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\infinitysky.pdb
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.csproj.AssemblyReference.cache
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.AssemblyInfoInputs.cache
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.AssemblyInfo.cs
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.csproj.CoreCompileInputs.cache
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.RazorAssemblyInfo.cache
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.RazorAssemblyInfo.cs
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.infinitysky.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.build.infinitysky.props
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.infinitysky.props
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.infinitysky.props
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\bundle\infinitysky.styles.css
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\scopedcss\projectbundle\infinitysky.bundle.scp.css
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinity.64D1D302.Up2Date
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\refint\infinitysky.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.pdb
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.genruntimeconfig.cache
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\ref\infinitysky.dll

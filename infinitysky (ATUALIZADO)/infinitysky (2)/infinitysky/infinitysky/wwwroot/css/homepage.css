@@ -1,0 +1,526 @@
+﻿﻿
+/*Fontes para adicionar no layout*/
+@font-face {
+    font-family: 'Gilroy-Bold';
+    src: url('Gilroy-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Light';
+    src: url('Gilroy-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-UltraLight';
+    src: url('Gilroy-UltraLight.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Thin';
+    src: url('Gilroy-Thin.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-Bold';
+    src: url('Gilroy-Bold.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('Gilroy-Medium.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('Gilroy-Medium.ttf');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-SemiBold';
+    src: url('Gilroy-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Back';
+    src: url('Gilroy-Black.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('Gilroy-Medium.ttf');
+}
+
+
+
+
+
+.banner {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.banner-image {
+    width: 1600px;
+    height: 550px;
+    margin-left: -18%;
+    margin-top: -20px; /*medida exata*/
+}
+
+.banner-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+    .banner-text h1 {
+        font-size: 3rem;
+    }
+
+    .banner-text p {
+        font-size: 1.5rem;
+        letter-spacing: 2px;
+    }
+
+.descricao {
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+    width: 1400px;
+    margin-left: -10%;
+    font-size: 25px;
+    color:#003C5C;
+    font-family: Gilroy-Medium;
+    border-color:darkgray;
+    box-shadow: 5px 5px 5px 5px darkgray;
+}
+
+.programas {
+    padding: 20px;
+    text-align: center;
+}
+
+    .programas h2 {
+        margin-bottom: 20px;
+        font-family: Gilroy-SemiBold;
+        font-size:37px;
+        color: #003C5C;
+    }
+
+.cardsprog {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 15px;
+}
+
+.cardinfo {
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 30%;
+    margin: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+    .cardinfo img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+
+    .cardinfo h3 {
+       
+        margin: 15px 0;
+        font-family: Gilroy-Bold;
+        font-size: 25px;
+        color: #003C5C;
+    }
+
+    .cardinfo p {
+        padding: 0 15px 15px 15px;
+        font-size: 1rem;
+        color: #666;
+
+    }
+   
+
+
+.quality-section {
+    background-color: #003B5C; /* Cor de fundo azul escuro */
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    width: 1548px;
+    height: 510px;
+    margin-left: -18%;
+    margin-top:40px;
+}
+
+.quality-text {
+    text-align: left;
+}
+
+    .quality-text h2 {
+        margin: 0;
+        font-size: 39px;
+        font-weight: normal;
+        color: #ffff;
+        margin-left: 66%;
+        font-family: Gilroy-SemiBold;
+    }
+
+    .quality-text h1 {
+        margin: 5px 0;
+        font-size: 80px;
+        font-weight: bold;
+        color: #ffff;
+        margin-left:40%;
+        font-family:Gilroy-SemiBold;
+
+    }
+
+.description-text {
+    max-width: 700px;
+    font-size: 27px;
+    line-height: 1.5;
+    text-align:justify;
+    font-family:Gilroy-Medium;
+    margin-right:1%;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #003366;
+    margin-bottom: 50px;
+}
+
+.planos-container {
+    display: flex;
+    margin-bottom: 50px;
+    gap: 15px;
+    /espaçamento/
+}
+
+.plano {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 32%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+
+.imagem-plano {
+    width: 100%;
+}
+
+h2 {
+    color: #003366;
+    margin-bottom: 10px;
+    font-size: 22px;
+    text-align: center;
+}
+
+.saida {
+    color: #000000;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.preco {
+    margin: 20px 0;
+}
+
+    .preco h3 {
+        color: #003366;
+        font-size: 28px;
+        margin: 10px 0;
+    }
+
+    .preco span {
+        display: block;
+        color: #000000;
+    }
+
+    .preco button {
+        background-color: #003366;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        font-weight: bold;
+    }
+
+        .preco button:hover {
+            background-color: #0055aa;
+        }
+
+.total {
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+
+.paises-parceiros {
+    text-align: center;
+    margin-top: 250px;
+
+}
+
+    .paises-parceiros h2 {
+        color: #003366;
+        margin-bottom: 30px;
+        font-family:Gilroy-SemiBold;
+        font-size:28px;
+    }
+
+.bandeiras {
+    display: flex;
+    justify-content: center;
+    gap: 15px; /*Espaçamento entre as bandeiras*/
+}
+
+    .bandeiras img {
+        width: 60px;
+        height: 40px;
+    }
+
+
+
+
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    color: #ffff;
+    /*cor dos elementos do rodapé*/ margin-top:700px;
+    background-color: #003366;
+    height: 400px;
+}
+
+.footer-texto {
+    width: 37%;
+    font-size: 17px;
+    font-family: 'arial';
+    margin-left: 300px;
+    display: flex;
+    margin-top: 90px;
+    text-align: justify;
+    text-align-last: justify;
+    line-height: 1.7;
+}
+
+/*--------------CARDS----------------*/
+.h3, h3 {
+    font-family: Gilroy-SemiBold;
+    font-size: 37px;
+    color: #003C5C;
+}
+/* Estilo geral para o container de produtos */
+#products-container {
+    /*padding: 20px;*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; /* Distribui o espaço igualmente entre os cards */
+    gap: 20px; /* Espaçamento entre os cards */
+}
+
+.card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 400px;
+    /* flex: 1 0 300px;  Cada card ocupa 1 fração do espaço disponível, com largura mínima de 300px */
+    height: 690px; /*tamanho dos cards, para ficar igual*/
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+    .card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    }
+
+/*para o conteúdo do card ficar à esquerda e não grudado*/
+.pt-3 {
+    padding: 1rem !important;
+}
+
+/* Estilo da imagem do plano */
+.product-image {
+    width: 100%;
+    height: 200px; /* Define uma altura fixa para as imagens */
+    object-fit: cover;
+    display: block;
+    border-bottom: 1px solid #eee;
+    margin: 0;
+}
+
+.card-body {
+    padding: 0px;
+    text-align: left; /* Alinhamento à esquerda */
+}
+
+/*
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}*/
+
+.product-favoritar {
+    width: 75px;
+    height: 75px;
+    cursor: pointer;
+    margin-left: 280px;
+    margin-top: -200px;
+}
+
+
+.product-name { /*nome dos planos*/
+    font-family: 'Gilroy-SemiBold';
+    font-size: 1.60rem;
+    font-weight: 600;
+    color: #003C5F;
+    margin-bottom: 10px;
+    text-align: center; /* Alinhamento à esquerda */
+}
+
+/*
+.h5 {
+    font-size: 1.25rem; /*título do plano bunitin
+    text-align:center;
+}*/
+
+.product-info { /*nome das informações*/
+    font-family: 'Gilroy-Medium';
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-align: left; /* Alinhamento à esquerda */
+}
+
+
+.product-description {
+    font-family: 'Gilroy-Medium';
+    font-size: 0.94rem;
+    color: #666;
+    margin-bottom: 15px;
+    text-align: left; /* Alinhamento à esquerda */
+}
+
+.product-price {
+    font-family: 'Gilroy-Bold';
+    color: #003C5F;
+    font-size: 1.55rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: left; /* Alinhamento à esquerda */
+}
+
+.product-parcel {
+    font-family: 'Gilroy-Bold';
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #003C5F;
+    margin-bottom: 15px;
+    text-align: left; /* Alinhamento à esquerda */
+}
+
+.product-period {
+    font-family: 'Gilroy-Medium';
+    font-size: 0.94rem;
+    color: #888;
+    margin-bottom: 15px;
+    text-align: left; /* Alinhamento à esquerda */
+}
+
+/*
+.product-favoritar {
+    margin-left:300px;
+}*/
+
+.button {
+    background-color: #003C5F;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+    margin-left: 59px; /*para deixar centralizado*/
+}
+
+    .button:hover {
+        background-color: #0056b3;
+    }
+
+.button__text {
+    font-family: 'Gilroy-SemiBold';
+    margin-right: 8px;
+}
+
+.button__icon svg {
+    fill: white;
+    width: 18px;
+    height: 18px;
+}
+
+.no-products {
+    text-align: center;
+    padding: 50px 20px;
+    color: #555;
+}
+
+    .no-products h3 {
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+    }
+
+    .no-products p {
+        font-size: 1rem;
+        color: #888;
+    }
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .product-name {
+        font-size: 1rem;
+    }
+
+    .product-price {
+        font-size: 1rem;
+    }
+
+    .button {
+        padding: 8px;
+    }
+}

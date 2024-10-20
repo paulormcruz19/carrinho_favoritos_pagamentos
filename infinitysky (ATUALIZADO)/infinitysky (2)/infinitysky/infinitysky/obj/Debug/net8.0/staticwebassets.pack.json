@@ -1,0 +1,705 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\infinitysky.bundle.scp.css",
+      "PackagePath": "staticwebassets\\infinitysky.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\carrinhovazio.png",
+      "PackagePath": "staticwebassets\\Imagens\\carrinhovazio.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\favoritar.png",
+      "PackagePath": "staticwebassets\\Imagens\\favoritar.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\lixeira.png",
+      "PackagePath": "staticwebassets\\Imagens\\lixeira.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\planoafricadosul1.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\planoafricadosul1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\planoargentina1.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\planoargentina1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\planoaustralia1.png",
+      "PackagePath": "staticwebassets\\Imagens\\planoaustralia1.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\planocanada1.png",
+      "PackagePath": "staticwebassets\\Imagens\\planocanada1.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\planocanada2.png",
+      "PackagePath": "staticwebassets\\Imagens\\planocanada2.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\planocanada3.png",
+      "PackagePath": "staticwebassets\\Imagens\\planocanada3.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\planocoreia1.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\planocoreia1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\planoespanha1.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\planoespanha1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\planoestadosunidos1.png",
+      "PackagePath": "staticwebassets\\Imagens\\planoestadosunidos1.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\planoholanda1.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\planoholanda1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\planoitalia1.png",
+      "PackagePath": "staticwebassets\\Imagens\\planoitalia1.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\planomexico1.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\planomexico1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\planoportugal1.png",
+      "PackagePath": "staticwebassets\\Imagens\\planoportugal1.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\planoreinounido1.png",
+      "PackagePath": "staticwebassets\\Imagens\\planoreinounido1.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\Imagens\\removerfavoritos.png",
+      "PackagePath": "staticwebassets\\Imagens\\removerfavoritos.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Carrinho.css",
+      "PackagePath": "staticwebassets\\css\\Carrinho.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Favoritos.css",
+      "PackagePath": "staticwebassets\\css\\Favoritos.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-Black.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-Bold.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-Heavy.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-Heavy.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-HeavyItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-HeavyItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-Light.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-Medium.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-Regular.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-RegularItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-RegularItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-Thin.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-UltraLight.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-UltraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Gilroy-UltraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\css\\Gilroy-UltraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\Pdestinos.css",
+      "PackagePath": "staticwebassets\\css\\Pdestinos.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\estilo.css",
+      "PackagePath": "staticwebassets\\css\\estilo.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\estiloDados.css",
+      "PackagePath": "staticwebassets\\css\\estiloDados.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\estiloPainel.css",
+      "PackagePath": "staticwebassets\\css\\estiloPainel.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\estilocadastro.css",
+      "PackagePath": "staticwebassets\\css\\estilocadastro.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\formaboleto.css",
+      "PackagePath": "staticwebassets\\css\\formaboleto.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\formacartao.css",
+      "PackagePath": "staticwebassets\\css\\formacartao.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\formapix.css",
+      "PackagePath": "staticwebassets\\css\\formapix.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\homepage.css",
+      "PackagePath": "staticwebassets\\css\\homepage.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\sobre.css",
+      "PackagePath": "staticwebassets\\css\\sobre.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\sobreempresa.css",
+      "PackagePath": "staticwebassets\\css\\sobreempresa.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\Instagram.png",
+      "PackagePath": "staticwebassets\\img\\Instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\Pix.png",
+      "PackagePath": "staticwebassets\\img\\Pix.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\Whatsapp.png",
+      "PackagePath": "staticwebassets\\img\\Whatsapp.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\alemanha.png",
+      "PackagePath": "staticwebassets\\img\\alemanha.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\argentina.png",
+      "PackagePath": "staticwebassets\\img\\argentina.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\asa.jpg",
+      "PackagePath": "staticwebassets\\img\\asa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\aviao.jpg",
+      "PackagePath": "staticwebassets\\img\\aviao.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\barras.png",
+      "PackagePath": "staticwebassets\\img\\barras.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\boleto.png",
+      "PackagePath": "staticwebassets\\img\\boleto.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\boletobranco.png",
+      "PackagePath": "staticwebassets\\img\\boletobranco.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\canada.png",
+      "PackagePath": "staticwebassets\\img\\canada.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\carrinho.png",
+      "PackagePath": "staticwebassets\\img\\carrinho.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\cartaoazul.png",
+      "PackagePath": "staticwebassets\\img\\cartaoazul.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\cartaobranco.png",
+      "PackagePath": "staticwebassets\\img\\cartaobranco.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\espanha.png",
+      "PackagePath": "staticwebassets\\img\\espanha.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\eua.png",
+      "PackagePath": "staticwebassets\\img\\eua.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\franca.png",
+      "PackagePath": "staticwebassets\\img\\franca.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\fundocarrinho.png",
+      "PackagePath": "staticwebassets\\img\\fundocarrinho.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\fundofavoritos.png",
+      "PackagePath": "staticwebassets\\img\\fundofavoritos.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\fundologin.png",
+      "PackagePath": "staticwebassets\\img\\fundologin.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\fundolondres.png",
+      "PackagePath": "staticwebassets\\img\\fundolondres.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\fundomelhorlugar.png",
+      "PackagePath": "staticwebassets\\img\\fundomelhorlugar.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\fundomelhorlugar1.jpg",
+      "PackagePath": "staticwebassets\\img\\fundomelhorlugar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\fundonovayork.png",
+      "PackagePath": "staticwebassets\\img\\fundonovayork.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\fundoportugal.png",
+      "PackagePath": "staticwebassets\\img\\fundoportugal.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\fundoviagem.png",
+      "PackagePath": "staticwebassets\\img\\fundoviagem.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\fundoviagem2.png",
+      "PackagePath": "staticwebassets\\img\\fundoviagem2.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\fundoviagem3.png",
+      "PackagePath": "staticwebassets\\img\\fundoviagem3.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\iconecarrinho.png",
+      "PackagePath": "staticwebassets\\img\\iconecarrinho.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\iconesalvar.png",
+      "PackagePath": "staticwebassets\\img\\iconesalvar.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\imgempaisagemfundo.jpg",
+      "PackagePath": "staticwebassets\\img\\imgempaisagemfundo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\italia.png",
+      "PackagePath": "staticwebassets\\img\\italia.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\logosimbolo.png",
+      "PackagePath": "staticwebassets\\img\\logosimbolo.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\lupaimg.png",
+      "PackagePath": "staticwebassets\\img\\lupaimg.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\lupaimg2.png",
+      "PackagePath": "staticwebassets\\img\\lupaimg2.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\melhorlugar.png",
+      "PackagePath": "staticwebassets\\img\\melhorlugar.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\ny.jpg",
+      "PackagePath": "staticwebassets\\img\\ny.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\paises.png",
+      "PackagePath": "staticwebassets\\img\\paises.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\pixbranco.png",
+      "PackagePath": "staticwebassets\\img\\pixbranco.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\planoafricadosul1.jpg",
+      "PackagePath": "staticwebassets\\img\\planoafricadosul1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\planoargentina1.jpg",
+      "PackagePath": "staticwebassets\\img\\planoargentina1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\planoaustralia1.png",
+      "PackagePath": "staticwebassets\\img\\planoaustralia1.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\planocanada1.png",
+      "PackagePath": "staticwebassets\\img\\planocanada1.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\planocanada2.png",
+      "PackagePath": "staticwebassets\\img\\planocanada2.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\planocanada3.png",
+      "PackagePath": "staticwebassets\\img\\planocanada3.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\planocoreia1.jpg",
+      "PackagePath": "staticwebassets\\img\\planocoreia1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\planoespanha1.jpg",
+      "PackagePath": "staticwebassets\\img\\planoespanha1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\planoestadosunidos1.png",
+      "PackagePath": "staticwebassets\\img\\planoestadosunidos1.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\planoholanda1.jpg",
+      "PackagePath": "staticwebassets\\img\\planoholanda1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\planoitalia1.png",
+      "PackagePath": "staticwebassets\\img\\planoitalia1.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\planomexico1.jpg",
+      "PackagePath": "staticwebassets\\img\\planomexico1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\planoportugal1.png",
+      "PackagePath": "staticwebassets\\img\\planoportugal1.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\planoreinounido1.png",
+      "PackagePath": "staticwebassets\\img\\planoreinounido1.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\portugal.png",
+      "PackagePath": "staticwebassets\\img\\portugal.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\reinounido.png",
+      "PackagePath": "staticwebassets\\img\\reinounido.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\teste_qrcode.png",
+      "PackagePath": "staticwebassets\\img\\teste_qrcode.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\img\\user.png",
+      "PackagePath": "staticwebassets\\img\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.infinitysky.props",
+      "PackagePath": "build\\infinitysky.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.infinitysky.props",
+      "PackagePath": "buildMultiTargeting\\infinitysky.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.infinitysky.props",
+      "PackagePath": "buildTransitive\\infinitysky.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.infinitysky.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

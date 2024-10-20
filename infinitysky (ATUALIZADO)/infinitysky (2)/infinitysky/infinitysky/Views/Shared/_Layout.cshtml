@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - InifitySky</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+</head>
+<body>
+    <!-- NAVBAR -->
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-blue border-bottom box-shadow mb-3">
+            <div class="container-fluid d-flex align-items-center justify-content-between">
+
+                <!-- LOGO -->
+                <div class="logo">
+                    <img src="/img/logo.png" alt="Infinity Sky Logo">
+                </div>
+
+                <!-- BARRA DE PESQUISA -->
+                <div class="search-bar">
+                    <input type="text" placeholder="Busca...">
+                    <button>
+                        <img src="/img/lupaimg.png" alt="lupa" class="search-icon">
+                    </button>
+                </div>
+
+                <!-- REDES SOCIAIS -->
+                <div class="social-icons">
+                    <a href="#">
+                        <img src="/img/Instagram.png" alt="Instagram Icon">
+                    </a>
+                    <a href="#">
+                        <img src="/img/Whatsapp.png" alt="WhatsApp Icon">
+                    </a>
+                </div>
+            </div>
+        </nav>
+        <!-- LINHA BRANCA -->
+        <div class="custom-line"></div>
+
+        <!-- LINKS ABAIXO DA LINHA BRANCA -->
+        <nav class="secondary-navbar">
+            <div class="secondary-navbar">
+                <ul>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Principais destinos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Planos">Planos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Servicos">Serviços</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Sobre">Sobre nós</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="CadastrarCliente">Cadastre-se</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Login">Entrar</a>
+                    </li>
+
+
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- FOOTER
+    <footer class="footer">
+        <hr>
+        <div class="footer-links">
+            <a href="#">Termos de Serviço</a>
+            <a href="#">Política de Privacidade</a>
+            <a href="#">Contato</a>
+        </div>
+    </footer>-->
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

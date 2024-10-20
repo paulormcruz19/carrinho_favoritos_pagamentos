@@ -1,0 +1,152 @@
+﻿@model IEnumerable<infinitysky.Models.Planos>
+
+@{
+    ViewData["Title"] = "Carrinho";
+    decimal total = 0;
+}
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.2.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+<link rel="stylesheet" href="~/css/Carrinho.css" asp-append-version="true">
+
+<!-- Banner com as 3 fotos -->
+<section class="banner">
+    <img class="banner-image" src="/img/fundocarrinho.png" alt="banner-image" />
+</section>
+
+<!-- Descrição que aparece -->
+<section class="descricao text-center">
+    <h2>Carrinho</h2>
+</section>
+
+<div class="container mt-4">
+    <section id="order">
+        <div class="card p-3">
+            @if (!Model.Any())
+            {
+                <div class="empty-cart text-center">
+                    <img src="/Imagens/carrinhovazio.png" alt="Carrinho vazio" />
+                    <p>Ops!..<br /> Seu carrinho está vazio.</p>
+                </div>
+            }
+            else
+            {
+                <table class="table table-hover shopping-cart-wrap">
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            var subTotal = item.QtdPlano * Convert.ToDecimal(item.Valor);
+                            total += subTotal;
+                            <tr>
+                                <td class="d-flex align-items-center">
+                                    <div class="me-3">
+                                        <figure class="media">
+                                            <div class="image-container">
+                                                @if (item.image_plano != null)
+                                                {
+                                                    <img src="/@item.image_plano" class="product-image" alt="Imagem do Plano" />
+                                                }
+                                                else
+                                                {
+                                                    <img src="/Imagens/imagenotfound.png" class="product-image" alt="Imagem Padrão" />
+                                                }
+                                            </div>
+                                        </figure>
+                                    </div>
+                                    <figcaption class="media-body text-end">
+                                        <div class="pt-3">
+                                            <h5 class="titulo-plano">@item.Nome</h5>
+                                            <p class="product-info">Hospedagem: @item.HospedagemPlano</p>
+                                            <p class="product-info">Curso: @item.CursoPlano</p>
+                                            <p class="product-info">Escola: @item.InstituicaoPlano</p>
+                                            <p class="product-info">Período: @item.PeriodoPlano</p>
+                                            <p class="product-parcela">@item.ParcelaPlano</p>
+                                        </div>
+                                    </figcaption>
+                                </td>
+                                <td>
+                                    <div class="input-group">
+                                        <div class="input-group-prepend">
+                                            @if (item.QtdPlano > 1)
+                                            {
+                                                @using (Html.BeginForm("DiminuirItem", "Home", FormMethod.Post))
+                                                {
+                                                    <input type="hidden" name="id" value="@item.IdPlano">
+                                                    <button type="submit" class="btn btn-default btn-acao-primario">-</button>
+                                                }
+                                            }
+                                            else
+                                            {
+                                                <button type="button" class="btn btn-default btn-acao-primario" onclick="confirmRemove('@item.IdPlano')">-</button>
+                                            }
+                                        </div>
+                                        <input type="text" class="form-control text-center" value="@item.QtdPlano" readonly>
+                                        <div class="input-group-append">
+                                            @if (item.QtdPlano < 99) // Assumindo um limite máximo
+                                            {
+                                                @using (Html.BeginForm("AdicionarItem", "Home", FormMethod.Post))
+                                                {
+                                                    <input type="hidden" name="id" value="@item.IdPlano">
+                                                    <input type="hidden" name="QuantidadePlano" value="1">
+                                                    <button type="submit" class="btn btn-default btn-acao-primario">+</button>
+                                                }
+                                            }
+                                            else
+                                            {
+                                                <button type="button" class="btn btn-default btn-acao-primario" disabled>+</button>
+                                            }
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="text-end">
+                                    <input type="image" src="~/Imagens/lixeira.png" alt="Remover" class="btn btn-outline-danger" style="width: 70px; height: 60px;" onclick="confirmRemove('@item.IdPlano')" />
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <div class="total-value d-flex justify-content-between align-items-center mt-4">
+                    <h2>Valor Total: @total.ToString("C")</h2>
+                    <div class="checkout-button" style="display: @(!Model.Any() ? "none" : "block")">
+                        <a class="btn btn-continuar-comprando" asp-action="FormaCartao" asp-controller="Home" style="background-color: #007bff; border-radius: 0; border: 1px solid blue; color: white;">
+                            COMPRAR
+                        </a>
+                    </div>
+                </div>
+            }
+        </div>
+    </section>
+</div>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script>
+    function confirmRemove(id) {
+        Swal.fire({
+            title: 'Você tem certeza?',
+            text: 'Deseja remover este item do carrinho?',
+            icon: 'warning',
+            showCancelButton: true,
+            confirmButtonText: 'Sim, remover!',
+            cancelButtonText: 'Não, cancelar'
+        }).then((result) => {
+            if (result.isConfirmed) {
+                $.ajax({
+                    url: '@Url.Action("RemoverItem", "Home")',
+                    type: 'POST',
+                    data: { id: id },
+                    success: function (response) {
+                        if (response.success) {
+                            location.reload();
+                        } else {
+                            Swal.fire('Erro', 'Não foi possível remover o item. Tente novamente.', 'error');
+                        }
+                    }
+                });
+            }
+        });
+    }
+</script>
