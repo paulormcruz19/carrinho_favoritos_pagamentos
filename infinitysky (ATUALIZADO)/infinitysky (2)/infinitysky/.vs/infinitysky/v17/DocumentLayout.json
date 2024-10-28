@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|c:\\users\\anapa\\downloads\\teste (carrinho \u002B favoritos  \u002B pagamentos)\\infinitysky (atualizado)\\infinitysky (2)\\infinitysky\\infinitysky\\views\\home\\formacartao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|solutionrelative:infinitysky\\views\\home\\formacartao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|c:\\users\\anapa\\downloads\\teste (carrinho \u002B favoritos  \u002B pagamentos)\\infinitysky (atualizado)\\infinitysky (2)\\infinitysky\\infinitysky\\views\\home\\tipopagamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|solutionrelative:infinitysky\\views\\home\\tipopagamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|c:\\users\\anapa\\downloads\\teste (carrinho \u002B favoritos  \u002B pagamentos)\\infinitysky (atualizado)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\tipopagamento.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|solutionrelative:infinitysky\\wwwroot\\css\\tipopagamento.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|c:\\users\\anapa\\downloads\\teste (carrinho \u002B favoritos  \u002B pagamentos)\\infinitysky (atualizado)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\formacartao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|solutionrelative:infinitysky\\wwwroot\\css\\formacartao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|c:\\users\\anapa\\downloads\\teste (carrinho \u002B favoritos  \u002B pagamentos)\\infinitysky (atualizado)\\infinitysky (2)\\infinitysky\\infinitysky\\views\\home\\formapix.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|solutionrelative:infinitysky\\views\\home\\formapix.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|c:\\users\\anapa\\downloads\\teste (carrinho \u002B favoritos  \u002B pagamentos)\\infinitysky (atualizado)\\infinitysky (2)\\infinitysky\\infinitysky\\views\\home\\formaboleto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|solutionrelative:infinitysky\\views\\home\\formaboleto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|c:\\users\\anapa\\downloads\\teste (carrinho \u002B favoritos  \u002B pagamentos)\\infinitysky (atualizado)\\infinitysky (2)\\infinitysky\\infinitysky\\views\\home\\formacartao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|solutionrelative:infinitysky\\views\\home\\formacartao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|c:\\users\\anapa\\downloads\\teste (carrinho \u002B favoritos  \u002B pagamentos)\\infinitysky (atualizado)\\infinitysky (2)\\infinitysky\\infinitysky\\views\\home\\carrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|solutionrelative:infinitysky\\views\\home\\carrinho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|c:\\users\\anapa\\downloads\\teste (carrinho \u002B favoritos  \u002B pagamentos)\\infinitysky (atualizado)\\infinitysky (2)\\infinitysky\\infinitysky\\views\\home\\formapix.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|solutionrelative:infinitysky\\views\\home\\formapix.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|c:\\users\\anapa\\downloads\\teste (carrinho \u002B favoritos  \u002B pagamentos)\\infinitysky (atualizado)\\infinitysky (2)\\infinitysky\\infinitysky\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|solutionrelative:infinitysky\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|c:\\users\\anapa\\downloads\\teste (carrinho \u002B favoritos  \u002B pagamentos)\\infinitysky (atualizado)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\formaboleto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -27,8 +43,8 @@
       "RelativeMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|solutionrelative:infinitysky\\wwwroot\\css\\formapix.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|c:\\users\\anapa\\downloads\\teste (carrinho \u002B favoritos  \u002B pagamentos)\\infinitysky (atualizado)\\infinitysky (2)\\infinitysky\\infinitysky\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|solutionrelative:infinitysky\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|c:\\users\\anapa\\downloads\\teste (carrinho \u002B favoritos  \u002B pagamentos)\\infinitysky (atualizado)\\infinitysky (2)\\infinitysky\\infinitysky\\carrinhocompra\\cookiecarrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD21B8E-8371-4FB6-96BE-5EA9960CBD51}|infinitysky\\infinitysky.csproj|solutionrelative:infinitysky\\carrinhocompra\\cookiecarrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,92 +54,149 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "FormaCartao.cshtml",
+              "DocumentMoniker": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\Views\\Home\\FormaCartao.cshtml",
+              "RelativeDocumentMoniker": "infinitysky\\Views\\Home\\FormaCartao.cshtml",
+              "ToolTip": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\Views\\Home\\FormaCartao.cshtml",
+              "RelativeToolTip": "infinitysky\\Views\\Home\\FormaCartao.cshtml",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAADwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:33:42.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tipopagamento.css",
+              "DocumentMoniker": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\tipopagamento.css",
+              "RelativeDocumentMoniker": "infinitysky\\wwwroot\\css\\tipopagamento.css",
+              "ToolTip": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\tipopagamento.css",
+              "RelativeToolTip": "infinitysky\\wwwroot\\css\\tipopagamento.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T14:31:16.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FormaPix.cshtml",
               "DocumentMoniker": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\Views\\Home\\FormaPix.cshtml",
               "RelativeDocumentMoniker": "infinitysky\\Views\\Home\\FormaPix.cshtml",
               "ToolTip": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\Views\\Home\\FormaPix.cshtml",
               "RelativeToolTip": "infinitysky\\Views\\Home\\FormaPix.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEYAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T19:21:29.577Z"
+              "WhenOpened": "2024-10-14T19:21:29.577Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "FormaBoleto.cshtml",
+              "DocumentMoniker": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\Views\\Home\\FormaBoleto.cshtml",
+              "RelativeDocumentMoniker": "infinitysky\\Views\\Home\\FormaBoleto.cshtml",
+              "ToolTip": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\Views\\Home\\FormaBoleto.cshtml",
+              "RelativeToolTip": "infinitysky\\Views\\Home\\FormaBoleto.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T18:48:26.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "formacartao.css",
               "DocumentMoniker": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\formacartao.css",
               "RelativeDocumentMoniker": "infinitysky\\wwwroot\\css\\formacartao.css",
               "ToolTip": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\formacartao.css",
               "RelativeToolTip": "infinitysky\\wwwroot\\css\\formacartao.css",
-              "ViewState": "AgIAAM8AAAAAAAAAAAAAANIAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAAAO0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-14T19:44:58.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "formapix.css",
-              "DocumentMoniker": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\formapix.css",
-              "RelativeDocumentMoniker": "infinitysky\\wwwroot\\css\\formapix.css",
-              "ToolTip": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\formapix.css",
-              "RelativeToolTip": "infinitysky\\wwwroot\\css\\formapix.css",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAAAKsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-14T19:21:34.32Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormaCartao.cshtml",
-              "DocumentMoniker": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\Views\\Home\\FormaCartao.cshtml",
-              "RelativeDocumentMoniker": "infinitysky\\Views\\Home\\FormaCartao.cshtml",
-              "ToolTip": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\Views\\Home\\FormaCartao.cshtml",
-              "RelativeToolTip": "infinitysky\\Views\\Home\\FormaCartao.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T19:33:42.684Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormaBoleto.cshtml",
-              "DocumentMoniker": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\Views\\Home\\FormaBoleto.cshtml",
-              "RelativeDocumentMoniker": "infinitysky\\Views\\Home\\FormaBoleto.cshtml",
-              "ToolTip": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\Views\\Home\\FormaBoleto.cshtml",
-              "RelativeToolTip": "infinitysky\\Views\\Home\\FormaBoleto.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAADUAAAARAAAAAAAAAA==",
+              "Title": "TipoPagamento.cshtml",
+              "DocumentMoniker": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\Views\\Home\\TipoPagamento.cshtml",
+              "RelativeDocumentMoniker": "infinitysky\\Views\\Home\\TipoPagamento.cshtml",
+              "ToolTip": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\Views\\Home\\TipoPagamento.cshtml",
+              "RelativeToolTip": "infinitysky\\Views\\Home\\TipoPagamento.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T18:48:26.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "formaboleto.css",
-              "DocumentMoniker": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\formaboleto.css",
-              "RelativeDocumentMoniker": "infinitysky\\wwwroot\\css\\formaboleto.css",
-              "ToolTip": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\formaboleto.css",
-              "RelativeToolTip": "infinitysky\\wwwroot\\css\\formaboleto.css",
-              "ViewState": "AgIAALQAAAAAAAAAAAAAALkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-14T18:49:31.759Z"
+              "WhenOpened": "2024-10-28T14:24:51.723Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Carrinho.cshtml",
+              "DocumentMoniker": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\Views\\Home\\Carrinho.cshtml",
+              "RelativeDocumentMoniker": "infinitysky\\Views\\Home\\Carrinho.cshtml",
+              "ToolTip": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\Views\\Home\\Carrinho.cshtml",
+              "RelativeToolTip": "infinitysky\\Views\\Home\\Carrinho.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAADQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T21:57:59.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "infinitysky\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\Controllers\\HomeController.cs",
               "RelativeToolTip": "infinitysky\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAK0AAAAAAAAAAADwv7kAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAuwNIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T17:09:45.723Z"
+              "WhenOpened": "2024-10-08T17:09:45.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "formaboleto.css",
+              "DocumentMoniker": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\formaboleto.css",
+              "RelativeDocumentMoniker": "infinitysky\\wwwroot\\css\\formaboleto.css",
+              "ToolTip": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\formaboleto.css",
+              "RelativeToolTip": "infinitysky\\wwwroot\\css\\formaboleto.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-14T18:49:31.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CookieCarrinhoCompra.cs",
+              "DocumentMoniker": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
+              "RelativeDocumentMoniker": "infinitysky\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
+              "ToolTip": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
+              "RelativeToolTip": "infinitysky\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:54:20.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "formapix.css",
+              "DocumentMoniker": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\formapix.css",
+              "RelativeDocumentMoniker": "infinitysky\\wwwroot\\css\\formapix.css",
+              "ToolTip": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO \u002B FAVORITOS  \u002B PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\formapix.css",
+              "RelativeToolTip": "infinitysky\\wwwroot\\css\\formapix.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-14T19:21:34.32Z",
+              "EditorCaption": ""
             }
           ]
         }

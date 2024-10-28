@@ -298,3 +298,4 @@ C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky 
 C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.pdb
 C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.genruntimeconfig.cache
 C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\ref\infinitysky.dll
+C:\Users\anapa\Downloads\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\infinitysky (ATUALIZADO)\infinitysky (2)\infinitysky\infinitysky\obj\Debug\net8.0\infinitysky.sourcelink.json

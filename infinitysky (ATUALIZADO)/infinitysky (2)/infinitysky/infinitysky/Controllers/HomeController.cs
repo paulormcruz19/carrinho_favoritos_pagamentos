@@ -196,6 +196,12 @@ namespace infinitysky.Controllers
             return View(carrinho);
         }
 
+        public IActionResult TipoPagamento()
+        {
+            var carrinho = _cookieCarrinhoCompra.Consultar();
+            return View(carrinho);
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

@@ -1,0 +1,57 @@
+﻿@model IEnumerable<infinitysky.Models.Planos>
+
+@{
+    ViewData["Title"] = "TipoPagamento";
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagamento</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link rel="stylesheet" href="~/css/tipopagamento.css" asp-append-version="true">
+</head>
+<body>
+    <div class="container">
+    <h1 class="titulo">PAGAMENTO</h1>
+
+    <div class="mensagem">
+        <div class="cabecalho">
+            Pacote realizado com sucesso!
+        </div>
+        <div class="sidebar">
+            @foreach (var item in Model)
+            {
+                <div class="plano-item d-flex align-items-start">
+                    <div class="image-container me-3">
+                        @if (item.image_plano != null)
+                        {
+                            <img src="/@item.image_plano" class="product-image" alt="Imagem do Plano" />
+                        }
+                        else
+                        {
+                            <img src="/Imagens/imagenotfound.png" class="product-image" alt="Imagem Padrão" />
+                        }
+                    </div>
+                    <div>
+                        <h3 class="titulo-plano">@item.Nome</h3>
+                        <p class="product-info">Hospedagem: @item.HospedagemPlano</p>
+                        <p class="product-info">Curso: @item.CursoPlano</p>
+                        <p class="product-info">Escola: @item.InstituicaoPlano</p>
+                        <p class="product-info">Período: @item.PeriodoPlano</p>
+                        <p class="product-parcela">@item.ParcelaPlano</p>
+                        <hr>
+                    </div>
+                </div>
+            }
+            <div class="confirmado">
+                Pagamento confirmado
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

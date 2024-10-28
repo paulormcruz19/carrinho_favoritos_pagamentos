@@ -13,6 +13,20 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.2.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link rel="stylesheet" href="~/css/formacartao.css" asp-append-version="true">
+
+    <script>
+        // Verifica se todos os campos estão preenchidos para habitar e poder clicar no botão "FINALIZAR"
+        function validateForm() {
+            const nomeCartao = document.getElementById('nome-cartao').value;
+            const numeroCartao = document.getElementById('numero-cartao').value;
+            const mesExpiracao = document.getElementById('mes-expiracao').value;
+            const anoExpiracao = document.getElementById('ano-expiracao').value;
+            const cvv = document.getElementById('cvv').value;
+
+            const isValid = nomeCartao && numeroCartao && mesExpiracao && anoExpiracao && cvv;
+            document.getElementById('finalizar-button').disabled = !isValid;
+        }
+    </script>
 </head>
 <body>
     <div class="container">
@@ -39,22 +53,22 @@
                     </form>
                 </div>
 
-                <form>
+                <form oninput="validateForm()">
                     <div class="form-group">
-                        <input type="text" id="nome-cartao" placeholder="Nome do Cartão">
+                        <input type="text" id="nome-cartao" placeholder="Nome do Cartão" required>
                     </div>
                     <div class="form-group">
-                        <input type="number" id="numero-cartao" placeholder="Número do Cartão">
+                        <input type="number" id="numero-cartao" placeholder="Número do Cartão" maxlength="16" oninput="this.value = this.value.slice(0, 16)" required>
                     </div>
                     <div class="form-group expiry-date">
                         <div>
-                            <input type="number" id="mes-expiracao" placeholder="Mês">
+                            <input type="number" id="mes-expiracao" placeholder="Mês" maxlength="2" oninput="this.value = this.value.slice(0, 2)" required>
                         </div>
                         <div>
-                            <input type="number" id="ano-expiracao" placeholder="Ano">
+                            <input type="number" id="ano-expiracao" placeholder="Ano" maxlength="4" oninput="this.value = this.value.slice(0, 4)" required>
                         </div>
                         <div>
-                            <input type="number" id="cvv" placeholder="CVV">
+                            <input type="number" id="cvv" placeholder="CVV" maxlength="3" oninput="this.value = this.value.slice(0, 3)" required>
                         </div>
                     </div>
                 </form>
@@ -87,13 +101,11 @@
                         <hr>
                     </div>
                 }
-                
-                <form asp-action="FinalizarPagamento" method="get">
+                <form asp-action="TipoPagamento" method="get">
                     <div class="finalize-button">
-                        <button type="submit">FINALIZAR</button>
+                        <button type="submit" id="finalizar-button" disabled>FINALIZAR</button>
                     </div>
                 </form>
-                </div>
             </div>
         </div>
     </div>

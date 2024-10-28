@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UIur7ZpwFlWE79ZGVkSkyNPQ6gR/xTjn9w9zi3rqj2g=",
+  "Hash": "rohV8yzE14rBtmrMRslFcHg+0D1fTgM9x0Aofo1rGos=",
   "Source": "infinitysky",
   "BasePath": "_content/infinitysky",
   "Mode": "Default",
@@ -718,6 +718,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\sobreempresa.css"
+    },
+    {
+      "Identity": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\css\\tipopagamento.css",
+      "SourceId": "infinitysky",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\",
+      "BasePath": "_content/infinitysky",
+      "RelativePath": "css/tipopagamento.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\tipopagamento.css"
     },
     {
       "Identity": "C:\\Users\\anapa\\Downloads\\TESTE (CARRINHO + FAVORITOS  + PAGAMENTOS)\\infinitysky (ATUALIZADO)\\infinitysky (2)\\infinitysky\\infinitysky\\wwwroot\\favicon.ico",
